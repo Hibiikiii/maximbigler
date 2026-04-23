@@ -1,12 +1,13 @@
 # Hi, I am Maxim 👋
 
 ### About me:
-Right now I work:
-- at [evosec GmbH & Co. KG](https://www.evosec.de/) as a junior developer
-- on my bachelor degree in "Bachelor of Science"
-- as founder of ["FrostFight UG (haftungsbeschränkt)"](https://www.frostfight.com/)
+Currently, I am:
+- Working as a Junior Developer at [evosec GmbH & Co. KG](https://www.evosec.de/)
+- Pursuing a Master's degree
+- A Co-Founder of ["FrostFight UG (haftungsbeschränkt)"](https://www.frostfight.com/)
 
-I also created the backend and deployment of the website: [https://ggkrotweiss.org/](https://ggkrotweiss.org/) which is plattform for dance groups.
+I recently completed my Bachelor of Science degree.
+Additionally, I developed the backend and managed the deployment for [https://ggkrotweiss.org/](https://ggkrotweiss.org/), a platform for dance groups.
 
 My Future plans are to do a Master's degree
 
@@ -32,4 +33,4 @@ My Future plans are to do a Master's degree
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ---
 
-![RussiaPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiiigM&show_icons=true&theme=dark&hide_border=true)
+![Maxim Biglers's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximbigler&show_icons=true&theme=dark&hide_border=true)
